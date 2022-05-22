@@ -1,0 +1,94 @@
+.titleHead{
+    font-size: $titleSize;
+    color: $colorPrimario;
+    margin: 0;
+}
+.boxUI{
+    background-color: $colorPrimario;
+    color: #fff;
+    border-radius: 3.3rem;
+    border: none;
+    text-align: center;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 700;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+    &.light{
+        background-color: #fff ;
+        color: $colorPrimario;
+        & .boxPercent{
+            color: #424242;
+        }
+        & .boxFooter,& .boxDay,& .boxDate{
+            color: #424242;
+        }
+        
+    }
+    &.gender{
+        padding: 1.5rem 0;
+        height: fit-content;
+        & .count{
+            font-size: 3.5rem;
+            font-weight: 700;
+        }
+    }
+    & .mtBox{
+        margin-top: 1rem;
+    }
+    &.flex {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    &.only{
+        width: 35rem;
+    }
+    & .boxDate{
+        display: block;
+        font-size: 1.4rem;
+        text-align: end;
+    }
+    & .boxBody{
+        & span,& .boxDay {
+            display: block;
+            line-height: initial;
+        }
+        &.date  .boxDay{
+            margin-top: 1rem;
+        }
+        &.date .boxCount{
+            margin-top: 3rem;
+        }
+        
+        & .boxCount{
+            font-size: 4.5rem;
+            line-height: initial;
+        }
+    }
+    & .main{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    & .boxFooter{
+        line-height: initial;
+        font-size: 1.4rem;
+    }
+    &.flexColumn{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    & .rangeDate{
+        display: flex;
+        justify-content: space-between;
+        line-height: initial;
+    }
+}
+
+.icongender{
+    width: 7rem;
+}
+.boxCountGender{
+    font-size: 2rem;
+}

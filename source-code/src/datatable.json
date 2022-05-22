@@ -1,0 +1,78 @@
+{
+    "hours": [
+        {
+            "time": "0:00h",
+            "hour": "0h",
+            "total": 161,
+            "female": 19,
+            "male": 142
+        },
+        {
+            "time": "1:00h",
+            "hour": "1h",
+            "total": 42,
+            "female": 5,
+            "male": 37
+        },
+        {
+            "time": "2:00h",
+            "hour": "2h",
+            "total": 3,
+            "female": 0,
+            "male": 3
+        },
+        {
+            "time": "23:00h",
+            "hour": "23h",
+            "total": 219,
+            "female": 51,
+            "male": 168
+        }
+    ],
+    "week": [
+        {
+            "dow": "LUN",
+            "total": 34126,
+            "female": 19581,
+            "male": 14545
+        },
+        {
+            "dow": "DOM",
+            "total": 41127,
+            "female": 22193,
+            "male": 18934
+        }
+    ],
+    "month": [
+        {
+            "day": 1,
+            "total": 0,
+            "female": 0,
+            "male": 0
+        },
+        {
+            "day": 2,
+            "total": 0,
+            "female": 0,
+            "male": 0
+        },
+        {
+            "day": 31,
+            "total": 0,
+            "female": 0,
+            "male": 0
+        }
+    ],
+    "max_hour": {
+        "hour": "18h",
+        "total": 35497
+    },
+    "max_week_day": {
+        "day": "SAB",
+        "total": 43419
+    },
+    "max_month_day": {
+        "day": "5",
+        "total": 11531
+    }
+}

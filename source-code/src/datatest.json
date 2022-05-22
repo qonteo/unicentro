@@ -1,0 +1,72 @@
+[
+    {
+        "name": "total",
+        "bars": [
+            {
+                "percent": 18,
+                "bg": "yellow",
+                "minutes": 45,
+                "name": "today"
+            },
+            {
+                "percent": 30,
+                "bg": "blue",
+                "minutes": 45,
+                "name": "week"
+            },
+            {
+                "percent": 30,
+                "minutes": 45,
+                "bg": "ligthBlue",
+                "name": "month"
+            }
+        ]
+    },
+    {
+        "name": "male",
+        "bars": [
+            {
+                "percent": 60,
+                "bg": "yellow",
+                
+                "minutes": 17,
+                "name": "today"
+            },
+            {
+                "percent": 45,
+                "bg": "blue",
+                "minutes": 20,
+                "name": "week"
+            },
+            {
+                "percent": 27,
+                "bg": "ligthBlue",
+                "minutes": 46,
+                "name": "month"
+            }
+        ]
+    },
+    {
+        "name": "female",
+        "bars": [
+            {
+                "percent": 78,
+                "bg": "yellow",
+                "minutes": 16,
+                "name": "today"
+            },
+            {
+                "percent": 55,
+                "bg": "blue",
+                "minutes": 28,
+                "name": "week"
+            },
+            {
+                "percent": 64,
+                "bg": "ligthBlue",
+                "minutes": 28,
+                "name": "month"
+            }
+        ]
+    }
+]

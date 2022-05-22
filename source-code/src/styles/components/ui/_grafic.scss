@@ -1,0 +1,72 @@
+.contenedorChart{
+   /*  position: relative; */
+   
+    height: 64rem;
+    width: 90rem;
+    border-radius: 3.6rem;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+    
+    & canvas{
+        padding: 2.2rem;
+    }
+}
+@media (min-width:1350px){
+    .contenedorChart{
+        width: 110rem;
+    }
+}
+@media (min-width:1550px){
+    .contenedorChart{
+        width: 120rem;
+    }
+}
+@media (min-width:1850px){
+    .contenedorChart{
+        width: 133rem;
+    }
+}
+@media (min-width:2350px){
+    .contenedorChart{
+        width: 150rem;
+    }
+}
+
+.rangeHeatMap{
+    width: 70%;
+    margin: auto;
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+  text-align: center;
+  margin-top: 5rem;
+}
+.rangeHeatMap .bgColorHeatMap{
+  height: 1.5rem;
+  width: 100%;
+
+}
+
+.rangeHeatMap  .range{
+  /* &.range span{
+      font-size: 1.3rem;
+  } */
+  &:nth-child(1) .bgColorHeatMap{
+      background-color: #5BCDFA;
+  }
+  &:nth-child(2) .bgColorHeatMap{
+      background-color: #5EAFFE;
+  }
+  &:nth-child(3) .bgColorHeatMap{
+      background-color: #4782F5;
+  }
+  &:nth-child(4) .bgColorHeatMap{
+      background-color: #3450EF;
+  }
+  &:nth-child(5) .bgColorHeatMap{
+      background-color: #0502D3;
+  }
+}
+@media (min-width:768px){
+  .rangeHeatMap  .range span{
+      /* font-size: 1.8rem; */
+  }
+}

@@ -1,0 +1,16 @@
+
+.headerTop{
+    padding-top: 3rem;
+   
+    & .iconNotify{
+        text-align: end;
+        align-self: center;
+    }
+    & img{
+        align-self: center;
+    }
+    & img:nth-child(2){
+        margin: auto;
+        width: 15rem;
+    }
+}

@@ -1,0 +1,30 @@
+.filterBtn{
+    padding: 1.5rem 4rem;
+    font-weight: 500;
+    outline: none;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: $colorPrimario;
+    border-radius: 1rem;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+    transition: all .2s;
+    &:last-of-type{
+        margin-right: 0;
+    }
+   
+    
+}
+button.filterBtn{
+    
+    &:hover,&.active{
+        background-color: $colorPrimario;
+        color: #fff;
+    }
+}
+input.filterBtn{
+    cursor: initial;
+}

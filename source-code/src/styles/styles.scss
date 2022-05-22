@@ -1,0 +1,17 @@
+@import './base/settings';
+@import './base/global';
+@import './base/normalize';
+@import './components/ui/main';
+@import './components/ui/layout';
+@import './components/ui/header';
+@import './components/ui/utils';
+@import './components/ui/auth';
+@import './components/ui/filtersButtons';
+@import './components/ui/choose';
+@import './components/ui/date';
+@import './components/ui/grafic';
+@import './components/ui/export.scss';
+@import './components/ui/report';
+@import './components/pages/person';
+@import './components/pages/trazabilidad';
+@import './components/pages/mobile/person';

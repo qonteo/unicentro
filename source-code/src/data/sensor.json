@@ -1,0 +1,1028 @@
+{
+    "sensores":[
+        {
+            "name":"totem1",
+            "total": 869,
+            "female": 468,
+            "male": 401,
+            "color":"#0a18f1",
+            "x": 130,
+            "y": 380,
+            "labelX":115,
+            "labelY":380,
+            "radio":40
+        },
+        {
+            "name":"totem2",
+             "total": 789 ,
+            "female": 446,
+            "male": 343,
+            "color": "#0a18f1",
+            "x": 530,
+            "y": 380,
+            "labelX":515,
+            "labelY":382,
+            "radio":35
+        },
+        {
+            "name":"sensor1",
+            "total": 700,
+            "female": 300,
+            "male": 400,
+            "color": "#5EAFFE",
+            "x": 130,
+            "y": 450,
+            "labelX":120,
+            "labelY":455,
+            "radio":55
+        }
+    ],
+    "hours": [
+        {
+            "hour": "1",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 864,
+                    "female": 357,
+                    "male": 398,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 574,
+                    "male": 156,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    
+                    "name":"sensor1",
+                    "total": 785,
+                    "female": 648,
+                    "male": 456,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "2",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 658,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 482,
+                    "female": 600,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 800,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "3",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 896,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 964,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "4",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 684,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 600,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 750,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "5",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 482,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 825,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "6",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 1051,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 800,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 412,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "7",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 680,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 782,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 638,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "8",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 681,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 725,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 600,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "9",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 482,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 500,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "10",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "11",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "12",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "13",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "14",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "15",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "16",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "17",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "18",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "19",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "20",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "21",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "22",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "23",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        },
+        {
+            "hour": "24",
+            "data": [
+                {
+                    "name":"totem1",
+                    "total": 748,
+                    "female": 400,
+                    "male": 300,
+                    "color":"#0a18f1",
+                    "x": 130,
+                    "y": 380,
+                    "labelX":115,
+                    "labelY":380,
+                    "radio":40
+                },
+                {
+                    "name":"totem2",
+                    "total": 682,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#0a18f1",
+                    "x": 530,
+                    "y": 380,
+                    "labelX":515,
+                    "labelY":382,
+                    "radio":35
+                },
+                {
+                    "name":"sensor1",
+                    "total": 567,
+                    "female": 400,
+                    "male": 300,
+                    "color": "#5EAFFE",
+                    "x": 130,
+                    "y": 450,
+                    "labelX":120,
+                    "labelY":455,
+                    "radio":55
+                }
+            ]
+        }
+       
+    ]
+}

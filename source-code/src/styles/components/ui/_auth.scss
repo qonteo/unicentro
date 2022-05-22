@@ -1,0 +1,74 @@
+.headerTop.auth{
+    justify-content: space-between;
+    padding: 2rem 3rem;
+}
+.headerTop.auth img:nth-child(2){
+    margin: initial;
+}
+.titleHeadAuth{
+    font-size: 2.6rem;
+    text-transform: uppercase;
+    color: $colorPrimario;
+    margin: 0;
+}
+.logoMiddle{
+    padding-top: 3rem;
+}
+.formLogin{
+    padding-top: 6rem;
+    width: 50%;
+    margin: auto;
+
+}
+.formLogin input{
+    width: 100%;
+    border-radius: 3.6rem;
+    outline: none;
+    border: none;
+    &[type="text"],&[type="password"],&[type="email"]{
+        margin-bottom: 3rem;
+        padding:  2rem;
+        box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+        border-radius: 1.5rem;
+    }
+    &[type="submit"]{
+        background-color: $colorPrimario;
+        color: #fff;
+        font-size: 1.8rem;
+        margin-top: 1rem;
+        height: 6rem;
+        transition: all .2s;
+        cursor: pointer;
+        &:hover{
+            background-color: #fff;
+            color: $colorPrimario;
+            border: 1px solid $colorPrimario;
+        }
+    }
+
+}
+.groupIcons img{
+    margin-right: 3rem;
+}
+@media (max-width:768px){
+    .groupIcons img{
+        width: 6rem;
+    }
+    .titleHeadAuth{
+        font-size: 2rem;
+    }
+    .headerTop img{
+        width: 13rem;
+    }
+    .logoMiddle > img{
+        width: 15rem;
+    }
+    .formLogin {
+        width: 90%;
+    }
+}
+.error{
+    color: red;
+    font-weight: 700;
+    font-size: 1.7rem;
+}

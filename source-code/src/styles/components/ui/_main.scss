@@ -1,0 +1,53 @@
+.mainScreens{
+    display: flex;
+    & .contentSidebar{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-width: 10rem;
+        background-color: $bgyellow;
+        transition: min-width .5s;
+        position: fixed;
+        z-index: 999;
+        &.open{
+            min-width:20rem;
+            & .icons{
+                & .icon{
+                    justify-content: space-around;
+                    
+                }
+            
+            }
+            & .icons .nameIcon{
+                opacity: 1;
+                top: 1.5rem;
+                left: 1.5rem;
+            }
+            & .icon:first-child .titleIcon{
+                top: 3rem;
+            }
+            & .icons .titleIcon{
+                opacity: 1;
+                left: 9.5rem;
+                top: 7.5rem;
+            }
+            & .icons .icon:not(:first-child){
+                padding: 6rem 0;
+                & img{
+                    bottom: 1.5rem;
+                }
+            }
+        }
+    }
+    
+}
+.contentScreens{
+    padding:0 3rem 0  6rem;
+    width: 100%;
+    margin-left: 10rem;
+    transition: .5s;
+    &.open{
+        margin-left: 20rem;
+    }
+}

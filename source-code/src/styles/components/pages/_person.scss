@@ -1,0 +1,62 @@
+.pagePerson{
+    margin-top: 4rem;
+}
+
+.codeQonteo{
+    font-size: 2.6rem;
+    font-weight: 700;
+    text-align: end;
+    color: $colorPrimario;
+}
+
+.subTitle{
+    font-size: 3.6rem;
+    color: $colorPrimario;
+}
+
+.boxGridFour{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-content: center;
+    grid-gap: 2rem;
+}
+.detailGrafic{
+    display: flex;
+    justify-content: space-between;
+    & .detailMax{
+        text-transform: uppercase;
+        font-size: 1.8rem;
+        color: $colorPrimario;
+        font-weight: 700;
+        
+    }
+}
+.range-date{
+    font-size: 1.8rem;
+}
+
+.react-tabs__tab-list{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border-bottom:none;
+    grid-gap: 1.5rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    & li{
+        padding: 1.5rem;
+        outline: none;
+        cursor: pointer;
+        box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+        border-radius: 1rem;
+        font-family: $fuentePrincipal;
+        font-size: 1.6rem;
+        font-weight: 500;
+        transition: all .2s;
+    }
+    
+    .totenactivetab{
+     background-color: #0502D3;
+     color: #fff;  
+    }
+}
+

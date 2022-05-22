@@ -1,0 +1,18 @@
+.btnExportsGraphics{
+    text-align: end;
+    padding-top: 3rem;
+    & button{
+        border: none;
+        cursor: pointer;
+        background-color: transparent;
+        margin-right: 1.5rem;
+        
+    }
+    & button:last-of-type{
+        margin-right: 0rem;
+        
+    }
+    & button::selection{
+        border: 1rem solid $colorPrimario;
+    }
+}
